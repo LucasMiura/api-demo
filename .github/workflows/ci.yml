@@ -1,5 +1,5 @@
 # Nome do workflow (aparecerá no dashboard do GitHub Actions)
-name: Java CI com Maven
+name: Java CI com Maven teste
 
 # Eventos que disparam este workflow
 on:
